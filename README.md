@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://fb.com/abuqolbyalblitary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuqolbyalblitary" height="30" width="40" /></a>
 <a href="https://instagram.com/al_byback" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al_byback" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/taqiyya channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="taqiyya channel" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@taqiyyachannel3640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="taqiyya channel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
